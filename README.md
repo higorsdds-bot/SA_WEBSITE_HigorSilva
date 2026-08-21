@@ -19,7 +19,7 @@ Projeto web desenvolvido em HTML5 puro, focado na construção de páginas estru
 | :--- | :--- |
 | **HTML5** | Estruturação de marcação semântica |
 | **Tabelas HTML** | Organização e alinhamento do conteúdo visual |
-| **Mídia Nativa** | Tags `<audio>` e `<iframe>` para multimídia |
+| **Mídia Nativa** | Tag `<iframe>` para multimídia |
 
 ---
 
