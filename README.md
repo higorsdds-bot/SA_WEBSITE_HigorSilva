@@ -1,6 +1,6 @@
 # 🎵 Summer Beats Festival - Galeria & Top Melhores do Ano
 
-Projeto web desenvolvido em HTML5 puro, focado na construção de páginas estruturadas com tabelas semânticas, galeria visual do evento, suporte a vídeos via `iframe` e reprodução de áudio nativa via `<audio>`.
+Projeto web desenvolvido em HTML5 puro, focado na construção de páginas estruturadas com tabelas semânticas, galeria visual do evento, suporte a vídeos via `iframe` 
 
 ---
 
